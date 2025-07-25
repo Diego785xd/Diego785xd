@@ -46,8 +46,8 @@ Solipsis is redefining audience analytics, industrial quality assurance, and sma
 ## 📬 Let's connect
 
 - 🖥️ [solipsis.mx](https://www.solipsis.mx)
-- 📫 Email: diego [at] solipsis [dot] mx
-- 🧠 LinkedIn: [@dperezrossi](https://www.linkedin.com/in/diegorossi)
+- 📫 Email: diego@solipsis.mx
+- 🧠 LinkedIn: [@dperezrossi](https://www.linkedin.com/in/dperezrossi)
 
 ---
 
